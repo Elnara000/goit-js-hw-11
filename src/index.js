@@ -84,5 +84,5 @@ function renderMarkup(photos) {
 }
 
 function clearHitsContainer() {
-    refs.container.innerHTML = ''
+    refs.container.innerHTML = '';
 }
